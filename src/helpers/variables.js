@@ -1,0 +1,1 @@
+export const serverPath = 'https://sneaky-cuddly-fluorine.glitch.me/';
